@@ -2,7 +2,7 @@
 
 -- All pathways routed using Express.js -- Please build this project using the following scripts: "npm run build" will start Webpack "npm start" will boot up the server
 
-///API PATHS///
+::API PATHS::
 
 Returns a list of reviews for a particular product. This list does not include any reported reviews.
 GET /reviews/:product_id/list
